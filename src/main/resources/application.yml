@@ -1,0 +1,7 @@
+amazon:
+  access:
+    key: 1
+    secret-key: dev2020
+  region: sa-east-1
+  end-point:
+    url: http://localhost:8000
